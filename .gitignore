@@ -1,3 +1,14 @@
+# ===== Mine ======
+# Matlab files
+*.m
+
+# Data
+*.zip
+*.txt
+*.csv
+*.pdf
+# ==================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
